@@ -1,11 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="123tv.de" tvg-logo="https://i.imgur.com/slSUDNX.png" HBO
-https://123tv-mx1.flex-cdn.net/index.m3u8
-#EXTINF:-1 tvg-id="1AlmereTV.nl" tvg-logo="https://i.imgur.com/XfkbTrU.png" BBC
-https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8
-#EXTINF:-1 tvg-id="1KZNTV.za" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" CNN
-https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MusicChannel.hu" tvg-logo="https://i.imgur.com/pzU6FrQ.png" SONY
-http://1music.hu/1music.m3u8
-#EXTINF:-1 tvg-id="1TV.ge" tvg-logo="https://i.imgur.com/FSkYLPK.png" POP
-https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:-1 tvg-id="3ABNPraiseHimMusicNetwork.us" tvg-logo="https://i.imgur.com/iBcqT8L.png" group-title="Music;Religious",3ABN Praise Him Music Network
+https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="3ABNProclaimNetwork.us" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mb4TLclxAUPvlnV84blg4YSnZYjspMitP_sS2rX_5IYQ=s512-c-k-c0x00ffffff-no-rj" group-title="Religious",3ABN Proclaim! Network
+https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="3AW.au" tvg-logo="https://i.imgur.com/Z4MdB0S.png" group-title="News",3AW Melbourne (1080p)
+https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8
