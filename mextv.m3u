@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Abc_2013_logo_red.svg/832px-Abc_2013_logo_red.svg.png?20131104005443" group-title="USA",ABC
+#EXTINF:-1 tvg-name="BBC NEWS" tvg-logo="https://logotyp.us/file/bbc-news.svg" group-title="NEWS",BBC NEWS
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
