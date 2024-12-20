@@ -1,3 +1,2 @@
 #EXTM3U
-#EXTM3U url-tvg="https://github.com/dtankdempse/daddylive-m3u/raw/refs/heads/main/epg.xml"
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Abc_2013_logo_red.svg/832px-Abc_2013_logo_red.svg.png?20131104005443" group-title="USA",ABC
